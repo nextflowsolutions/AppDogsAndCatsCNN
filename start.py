@@ -63,7 +63,7 @@ for f in dog_files:
         continue
    
 ###################################
-# Prepare train & test samples
+# Preparar amostras de trem e teste
 ###################################
 
 # test-train split   
